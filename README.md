@@ -184,7 +184,7 @@ print(x_single_prediction)
 
 
 
-![image](https://github.com/user-attachments/assets/a4d3a115-83fa-463c-909c-015efcf0e0fd)
+!
 
 
 
